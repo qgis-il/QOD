@@ -97,7 +97,7 @@
 
 ## מאי 2024
 * גיא קזקוב דיבר על שימוש בסיסי בתלת מימד
-* דרור בוגין הציג מבוא למנוע הביטויים
+* דרור בוגין הציג מבוא למנוע הביטויים - [קישור למצגת של דרור](https://docs.google.com/presentation/d/15kQ6-V-5HmYLrDtuQpCgl-eXxyAxaNJY4q_0PiwxGvE/edit?usp=sharing)
   
 [קישור להקלטה ב-YouTube](https://youtube.com/live/YMfzS0QuwZ0?feature=share)
 
