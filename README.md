@@ -69,6 +69,7 @@
 
 * עדו קליין – SPARQLing Unicorn: שאילתות גאוגרפיות ב-Wikidata
 שימוש בשאילתות SPARQL לא-רלציוניות למידע גאוגרפי, בעזרת תוסף ייעודי.
+
 [קישור למצגת של עדו](https://sweet-sfogliatella-f085fa.netlify.app/sparqling_unicorn.html#/title-slide)
 
 [קישור להקלטה ב-YouTube](https://youtube.com/live/J0Uq8BOSvvU?feature=share)
@@ -106,6 +107,7 @@
 ## מרץ 2024
 * חגית וינר תדבר על שימושי ממ"ג בהידרולוגיה של נגר עילי - לחבר מים, אדמה ואוויר 
 * דיאנה בוגין תדבר על השימוש בפלאגין של quickOSM בתהליכי יצירת מפות
+  
 [קישור להקלטה ב-YouTube](https://youtube.com/live/QwuFt3TnR9k?feature=share)
 
 ## פברואר 2024 - לא התקיים
