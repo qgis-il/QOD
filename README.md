@@ -24,7 +24,7 @@
 
 [קישור להקלטה ב-YouTube](https://youtube.com/live/o87pR5tZ_DU?feature=share)
 
- ## יוני 2025 - לא התקיים
+## יוני 2025 - לא התקיים
 
 
 ## מאי 2025
@@ -157,8 +157,4 @@
 [קישור להקלטה ב-YouTube](https://youtube.com/live/L7-z88hLp3o?feature=share)
 
 
-
-
-
-</div>
 
