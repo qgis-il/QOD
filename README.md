@@ -1,4 +1,5 @@
-<div dir="rtl">
+<link rel="stylesheet" href="rtl.css">
+
 
 # תוכן מימים פתוחים של QGIS-IL
 
