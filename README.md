@@ -30,7 +30,11 @@
 ## מאי 2025
 
 * אליאב שטול טראורינג הציג סמי-אוטומציה של עיצוב מפות עם PyQGIS
-* ארז שריג יציג קבצים מחברים – Connections
+* ארז שריג יציג קובץ חיבורים - Connector
+
+[קישור ל"נקודת פתיחה" ב-GitHub של ארז](https://github.com/ErezSarig/Common_startingPoint)  
+[קישור ל"קבצי חיבורים" ב-GitHub של ארז](https://github.com/ErezSarig/il_Common_Connectors)
+
 
 [קישור להקלטה ב-YouTube](https://youtube.com/live/JRDGPhn3BGo)
 
