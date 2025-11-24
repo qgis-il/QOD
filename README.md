@@ -10,15 +10,19 @@
 
 ## היום הפתוח הבא
  
-תאריך | 28.10.2025  
----|---
-שעה | 20:30
-YouTube | [קישור לשידור החי](https://youtube.com/live/OO9KBZjllB0?feature=share)
-Google Meet | [קישור למפגש ב-Google Meet](https://meet.google.com/bqp-nyye-zrp)
+תאריך | 30.11.2025   
 
-* איתן וייס שינברג ידבר על פיתוח פלאגינים עם AI
-* אלון אבירם ידבר על פיתוח כלים ב-PyQGIS - אוטומציה ליצירת חתכים
+שעה | 20:30 🕣  
 
+הצגת קבוצת המשתמשים qgis-il
+
+
+## אוקטובר 2025
+
+* איתן וייס שינברג דיבר על פיתוח פלאגינים עם AI
+* אלון אבירם דיבר על פיתוח כלים ב-PyQGIS - אוטומציה ליצירת חתכים
+
+[קישור להקלטה ב-YouTube](https://youtube.com/live/OO9KBZjllB0?feature=share)
 
 ## ספטמבר 2025
 
